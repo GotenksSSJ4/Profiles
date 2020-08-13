@@ -4,3 +4,7 @@ DOMAIN,cache.video.iqiyi.com
 # > bilibili
 DOMAIN,api.bilibili.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biliapi.com
